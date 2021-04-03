@@ -21,6 +21,7 @@ To-do list:
 * Implement a frontend design with Angula Material
 
 ## Getting Started
+* git clone https://github.com/MichaelBennett8/Expense-Reimbursement-System.git
 
 - Required environment variables: JWT_SECRET, CONN_DETAILS
 - Required files: hibernate.cfg.xml
