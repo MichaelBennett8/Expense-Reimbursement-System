@@ -27,6 +27,6 @@ To-do list:
 
 ## Usage
 
-> A PostgreSQL database and it's credentials must be provided via the hibernate.cfg.xml.
-> Build the backend with gradlew fatJar
-> Change the serverPath in the api.service.ts file to the IP adressof your backend. The port is 7000.
+- A PostgreSQL database and it's credentials must be provided via the hibernate.cfg.xml.
+- Build the backend with gradlew fatJar
+- Change the serverPath in the api.service.ts file to the IP adressof your backend. The port is 7000.
